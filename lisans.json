@@ -1,10 +1,12 @@
-[
+{
+  "licenses": [
     {
-        "LicenseKey": "12345678",
-        "ExpirationDate": "2024-10-10T00:00:00Z"
+      "licenseKey": "ABC123",
+      "expirationDate": "2024-12-31T23:59:59"
     },
     {
-        "LicenseKey": "87654321",
-        "ExpirationDate": "2024-10-15T00:00:00Z"
+      "licenseKey": "XYZ789",
+      "expirationDate": "2025-06-30T23:59:59"
     }
-]
+  ]
+}
