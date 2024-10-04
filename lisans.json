@@ -1,20 +1,14 @@
 {
   "licenses": [
     {
-      "LicenseKey": "ABC12",
-      "ExpirationDate": "2024-12-31T23:59:59"
+      "licenseKey": "ABC12",
+      "expirationDate": "2024-12-31T23:59:59",
+      "boundMachineId": null
     },
     {
-      "LicenseKey": "XYZ789",
-      "ExpirationDate": "2025-06-30T23:59:59"
-    },
-    {
-      "LicenseKey": "DB2550",
-      "ExpirationDate": "2024-10-04T21:33:29.2691028Z"
-    },
-    {
-      "LicenseKey": "AFA645",
-      "ExpirationDate": "2024-10-06T21:37:37.3135277Z"
+      "licenseKey": "XYZ789",
+      "expirationDate": "2025-06-30T23:59:59",
+      "boundMachineId": null
     }
   ]
 }
