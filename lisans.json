@@ -1,14 +1,14 @@
 {
-  "licenses": [
+  "Licenses": [
     {
-      "licenseKey": "ABC12",
-      "expirationDate": "2024-12-31T23:59:59",
-      "boundMachineId": null
+      "LicenseKey": "ABC12",
+      "ExpirationDate": "2024-12-31T23:59:59",
+      "BoundMachineId": "E89C2538A402"
     },
     {
-      "licenseKey": "XYZ789",
-      "expirationDate": "2025-06-30T23:59:59",
-      "boundMachineId": null
+      "LicenseKey": "XYZ789",
+      "ExpirationDate": "2025-06-30T23:59:59",
+      "BoundMachineId": null
     }
   ]
 }
