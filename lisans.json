@@ -1,5 +1,5 @@
 {
-  "Licenses": [
+  "licenses": [
     {
       "LicenseKey": "ABC12",
       "ExpirationDate": "2025-10-04T19:54:44.3346741+03:00",
@@ -124,6 +124,11 @@
       "LicenseKey": "F6F38721DAE74996",
       "ExpirationDate": "2025-01-03T13:49:37.6401273Z",
       "BoundMachineId": "006CFD25FF54"
+    },
+    {
+      "LicenseKey": "AD4ACE687DCE4958",
+      "ExpirationDate": "2025-01-03T13:59:36.0252512Z",
+      "BoundMachineId": null
     }
   ]
 }
