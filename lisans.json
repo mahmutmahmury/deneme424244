@@ -203,12 +203,12 @@
     {
       "LicenseKey": "58FFF7D820E241D1",
       "ExpirationDate": "2025-01-03T21:57:15.8755186Z",
-      "BoundMachineId": null
+      "BoundMachineId": "2CF05D815C74"
     },
     {
       "LicenseKey": "A74AE384C275497A",
       "ExpirationDate": "2025-01-03T21:59:49.8745408Z",
-      "BoundMachineId": "02249A8EC30D"
+      "BoundMachineId": null
     }
   ]
 }
