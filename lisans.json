@@ -1,5 +1,5 @@
 {
-  "licenses": [
+  "Licenses": [
     {
       "LicenseKey": "ABC12",
       "ExpirationDate": "2025-10-04T19:54:44.3346741+03:00",
@@ -82,7 +82,7 @@
     },
     {
       "LicenseKey": "9CB7ADC3CD4840FF",
-      "ExpirationDate": "2024-10-05T21:08:47.8801919+03:00",
+      "ExpirationDate": "2024-10-05T21:13:03.3738188+03:00",
       "BoundMachineId": "50EBF6B9B4C9"
     },
     {
@@ -164,11 +164,6 @@
       "LicenseKey": "0887CBC2D3834AC8",
       "ExpirationDate": "2025-01-03T17:39:24.7720895Z",
       "BoundMachineId": "581122B9549B"
-    },
-    {
-      "LicenseKey": "0496D6FF2F004E15",
-      "ExpirationDate": "2025-01-03T18:12:39.6490249Z",
-      "BoundMachineId": null
     }
   ]
 }
