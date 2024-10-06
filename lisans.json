@@ -1,8 +1,8 @@
 {
-  "licenses": [
+  "Licenses": [
     {
       "LicenseKey": "ABC12",
-      "ExpirationDate": "2025-10-04T19:54:44.3346741+03:00",
+      "ExpirationDate": "2025-10-04T09:54:44.3346741-07:00",
       "BoundMachineId": "E89C2538A402"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "LicenseKey": "88FACE91113E4001",
-      "ExpirationDate": "2024-10-05T15:31:57.7658873+03:00",
+      "ExpirationDate": "2024-10-05T05:31:57.7658873-07:00",
       "BoundMachineId": "F02F74F60A7B"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "LicenseKey": "F8806ADC17D248BA",
-      "ExpirationDate": "2024-10-06T16:03:02.4699449+03:00",
+      "ExpirationDate": "2024-10-06T06:03:02.4699449-07:00",
       "BoundMachineId": "B42E99EBA3E2"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "LicenseKey": "9CB7ADC3CD4840FF",
-      "ExpirationDate": "2024-10-05T21:13:03.3738188+03:00",
+      "ExpirationDate": "2024-10-05T11:13:03.3738188-07:00",
       "BoundMachineId": "50EBF6B9B4C9"
     },
     {
@@ -117,12 +117,12 @@
     },
     {
       "LicenseKey": "11D1112DAC7240AF",
-      "ExpirationDate": "2024-10-05T22:28:40.3485112+03:00",
+      "ExpirationDate": "2024-10-05T12:28:40.3485112-07:00",
       "BoundMachineId": "F832E49FC7DA"
     },
     {
       "LicenseKey": "F6F38721DAE74996",
-      "ExpirationDate": "2024-10-05T17:02:26.1040644+03:00",
+      "ExpirationDate": "2024-10-05T07:02:26.1040644-07:00",
       "BoundMachineId": "006CFD25FF54"
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "LicenseKey": "0887CBC2D3834AC8",
-      "ExpirationDate": "2024-10-06T15:49:20.2426278+03:00",
+      "ExpirationDate": "2024-10-06T05:49:20.2426278-07:00",
       "BoundMachineId": "581122B9549B"
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "LicenseKey": "65CE54A490674073",
-      "ExpirationDate": "2024-10-06T21:20:39.3018406+03:00",
+      "ExpirationDate": "2024-10-06T11:20:39.3018406-07:00",
       "BoundMachineId": "CA677E32867D"
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "LicenseKey": "9F075600A7EF429B",
-      "ExpirationDate": "2024-10-06T21:56:10.1068911+03:00",
+      "ExpirationDate": "2024-10-06T11:56:10.1068911-07:00",
       "BoundMachineId": "3EFB35BA4BBC"
     },
     {
@@ -318,7 +318,7 @@
     {
       "LicenseKey": "F730F65109554C17",
       "ExpirationDate": "2024-10-07T19:51:37.1089871Z",
-      "BoundMachineId": null
+      "BoundMachineId": "2CF05DE2DF42"
     }
   ]
 }
